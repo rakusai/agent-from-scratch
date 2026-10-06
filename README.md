@@ -1,4 +1,4 @@
-# agent-from-zero
+# agent-from-scratch
 
 **An AI that acts on your computer, in 55 lines of Python.**
 
